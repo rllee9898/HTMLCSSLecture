@@ -1,0 +1,18 @@
+/*this sets the background color of the entire body*/
+body{
+    background-color: rgb(45, 137, 223);
+}
+
+/* rule-set #3 */
+.submit-button{
+    color: rgb(16, 64, 221);
+}
+
+
+.positioning {
+    text-align:center;
+}
+
+.nav{
+    background-color: lightgray;
+}
