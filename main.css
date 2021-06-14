@@ -1,18 +1,34 @@
-/*this sets the background color of the entire body*/
 body{
-    background-color: rgb(45, 137, 223);
+    background-color: lightblue;
+    text-align: center;}
+    
+h1{
+    text-align:center;}
+
+nav{
+    background-color: white;
+    text-align: right;}
+
+input{
+    text-align:left;
 }
 
-/* rule-set #3 */
-.submit-button{
-    color: rgb(16, 64, 221);
+button{
+    background-color: cyan;
+    text-align: center;
+    width: 100px;
 }
 
-
-.positioning {
-    text-align:center;
+form{
+    border:2px; color: black;
+    margin: auto auto;
+    margin-top: 200px;
+    padding: 20px 20px 20px 40px;
+    background-color:white;
+    width: 300px;
 }
 
-.nav{
-    background-color: lightgray;
+img{
+    height: 50px;
+    width: 50px;
 }
